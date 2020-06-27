@@ -1,5 +1,5 @@
 # Better Default GitHub Labels
-Dont like the default github labels? Me niether, so this is a template for a better labeling system based off of [this article](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63) (with some differences and additions).
+Don't like the default github labels? Me neither, so this is a template for a better labeling system based off of [this article](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63) (with some differences and additions).
 
 Use this [GitHub label manager](http://www.dorukdestan.com/github-label-manager/) for easy label copy/paste between repositories.
 
@@ -15,7 +15,7 @@ There are three main types of labels; each one _should occur once_, and only onc
 There is one optional label:
 - Type 2
   - Better thought as 'Location'
-  - Better narrows down the issue type
+  - Better narrows down the issue type.
 
 ## Specific Label Definitions
 
@@ -33,7 +33,7 @@ There is one optional label:
 
 ### Status Labels
 - ![Status: Pending]
-  - New issues, un-reviewed by someone on the developer team for a proper status label.
+  - New issues, not reviewed by someone on the developer team for a proper status label.
 - ![Status: Available]
   - Approved as a valid issue but has not yet been assigned.
 - ![Status: Accepted]
